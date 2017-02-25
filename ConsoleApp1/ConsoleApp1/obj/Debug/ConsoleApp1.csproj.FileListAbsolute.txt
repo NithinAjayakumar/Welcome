@@ -1,0 +1,6 @@
+E:\Nithin\WorkSpaces\GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Nithin\WorkSpaces\GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Nithin\WorkSpaces\GitHub\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Nithin\WorkSpaces\GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\Nithin\WorkSpaces\GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Nithin\WorkSpaces\GitHub\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
