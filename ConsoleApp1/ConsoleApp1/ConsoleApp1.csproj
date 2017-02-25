@@ -48,6 +48,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="bin\Debug\ConsoleApp1.exe.config" />
+    <None Include="bin\Debug\ConsoleApp1.vshost.exe.config" />
+    <None Include="bin\Debug\ConsoleApp1.vshost.exe.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ConsoleApp1.exe" />
+    <Content Include="bin\Debug\ConsoleApp1.pdb" />
+    <Content Include="bin\Debug\ConsoleApp1.vshost.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
